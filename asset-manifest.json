@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Wordle/static/css/main.d3549ae6.css",
+    "main.js": "/Wordle/static/js/main.ab35d10d.js",
+    "index.html": "/Wordle/index.html",
+    "main.d3549ae6.css.map": "/Wordle/static/css/main.d3549ae6.css.map",
+    "main.ab35d10d.js.map": "/Wordle/static/js/main.ab35d10d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3549ae6.css",
+    "static/js/main.ab35d10d.js"
+  ]
+}
